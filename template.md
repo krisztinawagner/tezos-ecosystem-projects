@@ -1,14 +1,14 @@
 ---
-slug: ""
-date: ""
-project: ""
-logline: ""
+slug: "Versum"
+date: "2022-07-09"
+project: "Versum"
+logline: "Versum is an NFT platform and metaverse on the Tezos blockchain."
 logo: ""
-tags: ""
-status: ""
-website: ""
-twitter: ""
+tags: "NFT"
+status: "active"
+website: "https://versum.xyz/"
+twitter: "https://twitter.com/versumofficial"
 ---
 
-More detailed project information goes here.
+Our primary focus is on the art, user experience, and scalability.
 
